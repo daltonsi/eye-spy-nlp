@@ -132,12 +132,16 @@ def create_dataset(data_path:str, labels: {}):
         idx, text = row
 
         pattern = r'([A-Z][A-Z ]+):(.*?)(?=[A-Z][A-Z ]+:|$)'
+        none_pattern = r'None\.'
 
         matches = re.findall(pattern, text)
         for match in matches:
             pre_label, text = match
             label = labels[pre_label]
-            data.append([label,text])
+
+            if re.search(none_pattern, text) == None:
+
+                data.append([label,text])
 
     df = pd.DataFrame(data)
     df.columns = ['label','text']
