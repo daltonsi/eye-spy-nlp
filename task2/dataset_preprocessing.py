@@ -54,6 +54,7 @@ LABEL_MAPPINGS = {
     'OPERATION PERFORMED': 'PROCEDURE',
     'NAME OF PROCEDURE': 'PROCEDURE',
     'COMPLICATIONS': 'COMPLICATIONS',
+    'DIAGNOSIS': 'DIAGNOSIS',
     'INDICATIONS FOR OPERATION': 'DIAGNOSIS',
     'INDICATIONS FOR PROCEDURE': 'DIAGNOSIS',
     'PREOPERATIVE DIAGNOSIS': 'DIAGNOSIS',
@@ -68,7 +69,6 @@ LABEL_MAPPINGS = {
     'INDICATIONS': 'DIAGNOSIS',
     'POSTOP DIAGNOSIS': 'DIAGNOSIS',
     'POSTOPERATIVE DIAGNOSES': 'DIAGNOSIS',
-    'INDICATION': 'DIAGNOSIS',
     'INDICATION FOR SURGERY': 'DIAGNOSIS',
     'OTHER': 'OTHER',
     'BLOOD LOSS': 'OTHER',
@@ -101,11 +101,11 @@ LABEL_MAPPINGS = {
 }
 
 
-def parse_headings():
+def parse_headings(data_path:str):
 
     headings = []
 
-    df = pd.read_csv(SOURCE_PATH, index_col=0)
+    df = pd.read_csv(data_path, index_col=0)
 
     # Retrieve all header in source data
     for row in df['transcription'].iloc[:].items():
@@ -122,11 +122,31 @@ def parse_headings():
     return list(i.strip(':') for i in set(headings))
 
 
-def main():
-    labels = parse_headings()
+def create_dataset(data_path:str, labels: {}):
 
-    for label in labels:
-        print(label)
+    df = pd.read_csv(SOURCE_PATH, index_col=0)
+
+    data = []
+
+    for row in df['transcription'].iloc[:].items():
+        idx, text = row
+
+        pattern = r'([A-Z][A-Z ]+):(.*?)(?=[A-Z][A-Z ]+:|$)'
+
+        matches = re.findall(pattern, text)
+        for match in matches:
+            pre_label, text = match
+            label = labels[pre_label]
+            data.append([label,text])
+
+    df = pd.DataFrame(data)
+    df.columns = ['label','text']
+    df.to_csv('/home/daltonsi/eye-spy-nlp/source_data/task2_source.csv')
+
+def main():
+    #labels = parse_headings(SOURCE_PATH)
+    data = create_dataset(SOURCE_PATH,LABEL_MAPPINGS)
+
 
 
 
