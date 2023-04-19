@@ -132,7 +132,7 @@ def create_dataset(data_path:str, labels: {}):
         idx, text = row
 
         pattern = r'([A-Z][A-Z ]+):(.*?)(?=[A-Z][A-Z ]+:|$)'
-        none_pattern = r'None\.'
+        none_pattern = r'(?<![^\W\d])None[.,](?![^\W\d])'
 
         matches = re.findall(pattern, text)
         for match in matches:
