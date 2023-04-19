@@ -1,48 +1,103 @@
 import pandas as pd
 import re
+from collections import Counter
 
-SOURCE_PATH = '/home/daltonsi/eye-spy-nlp/source_data/mtsamples.csv'
+SOURCE_PATH = '/home/daltonsi/eye-spy-nlp/source_data/mtsamples_opthamal.csv'
 
 
 
 LABEL_MAPPINGS = {
     'SUBJECTIVE': 'SUBJECTIVE',
-    'PROCEDURE':'PROCEDURE',
-    'FINDINGS AND PROCEDURE':'PROCEDURE',
-    'OPERATIVE PROCEDURE': 'PROCEDURE',
-    'PROCEDURES': 'PROCEDURE',
-    'PROCEDURE IN DETAIL': 'PROCEDURE',
-    'INDICATION FOR OPERATION': 'PROCEDURE',
-    'OPERATION': 'PROCEDURE',
-    'INDICATION FOR PROCEDURE': 'PROCEDURE',
-    'ALLERGIES':'ALLERGIES',
-    'ASSESSMENT':'ASSESSMENT',
-    'DESCRIPTION': 'ASSESSMENT',
-    'PHYSICAL EXAMINATION': 'ASSESSMENT',
-    'IMPRESSION': 'IMPRESSION',
+    'CHIEF COMPLAINT': 'SUBJECTIVE',
+    'REASON FOR VISIT': 'SUBJECTIVE',
+    'HISTORY OF PRESENT ILLNESS': 'SUBJECTIVE',
+    'PLAN': 'PLAN',
+    'PLANS': 'PLAN',
+    'ASSESSMENT': 'PLAN',
+    'IMPRESSION': 'PLAN',
+    'ANESTHESIA': 'ANESTHESIA',
+    'ANESTHESIA TYPE': 'ANESTHESIA',
+    'OBJECTIVE': 'OBJECTIVE',
+    'EYE EXAM': 'OBJECTIVE',
+    'PHYSICAL EXAMINATION': 'OBJECTIVE',
+    'OCULAR FINDINGS': 'OBJECTIVE',
+    'VISUAL ACUITY': 'OBJECTIVE',
+    'FINDINGS': 'OBJECTIVE',
+    'IMPLANTS': 'OBJECTIVE',
     'HISTORY': 'HISTORY',
-    'HISTORY OF PRESENT ILLNESS': 'HISTORY',
-    'EATING HISTORY': 'HISTORY',
-    'SOCIAL HISTORY': 'HISTORY',
-    'PAST MEDICAL HISTORY': 'HISTORY',
+    'DOB': 'HISTORY',
     'FAMILY HISTORY': 'HISTORY',
+    'SOCIAL HISTORY': 'HISTORY',
     'PAST SURGICAL HISTORY': 'HISTORY',
-    'DIAGNOSIS': 'DIAGNOSIS',
+    'PAST OCULAR HISTORY': 'HISTORY',
+    'PAST MEDICAL HISTORY': 'HISTORY',
+    'MEDICATION': 'MEDICATION',
+    'MEDICATION HISTORY': 'MEDICATION',
+    'MEDICATIONS': 'MEDICATION',
+    'ALLERGIES': 'ALLERGIES',
+    'PROCEDURE': 'PROCEDURE',
+    'PROCEDURES': 'PROCEDURE',
+    'OPERATIVE PROCEDURE': 'PROCEDURE',
+    'OPERATIONS PERFORMED': 'PROCEDURE',
+    'OPERATIVE TECHNIQUE': 'PROCEDURE',
+    'OPERATIVE PROCEDURES': 'PROCEDURE',
+    'TITLE OF OPERATION': 'PROCEDURE',
+    'PROCEDURE PERFORMED': 'PROCEDURE',
+    'PROCEDURE IN DETAIL': 'PROCEDURE',
+    'DESCRIPTION OF OPERATION': 'PROCEDURE',
+    'PROCEDURE DETAILS': 'PROCEDURE',
+    'DESCRIPTION OF THE OPERATION': 'PROCEDURE',
+    'DESCRIPTION OF PROCEDURE': 'PROCEDURE',
+    'OPERATIVE PROCEDURE IN DETAIL': 'PROCEDURE',
+    'OPERATION': 'PROCEDURE',
+    'PROCEDURE NOTE': 'PROCEDURE',
+    'OPERATION PERFORMED': 'PROCEDURE',
+    'NAME OF PROCEDURE': 'PROCEDURE',
+    'COMPLICATIONS': 'COMPLICATIONS',
+    'INDICATIONS FOR OPERATION': 'DIAGNOSIS',
+    'INDICATIONS FOR PROCEDURE': 'DIAGNOSIS',
+    'PREOPERATIVE DIAGNOSIS': 'DIAGNOSIS',
+    'PREOPERATIVE DX': 'DIAGNOSIS',
+    'INDICATIONS FOR SURGERY': 'DIAGNOSIS',
+    'PREOP DIAGNOSIS': 'DIAGNOSIS',
+    'POSTOPERATIVE DX': 'DIAGNOSIS',
     'POSTOPERATIVE DIAGNOSIS': 'DIAGNOSIS',
     'PREOPERATIVE DIAGNOSES': 'DIAGNOSIS',
+    'PREOPERATIVE FINDINGS': 'DIAGNOSIS',
+    'INDICATION': 'DIAGNOSIS',
+    'INDICATIONS': 'DIAGNOSIS',
+    'POSTOP DIAGNOSIS': 'DIAGNOSIS',
     'POSTOPERATIVE DIAGNOSES': 'DIAGNOSIS',
-    'PREOPERATIVE DIAGNOSIS': 'DIAGNOSIS',
-    'OBJECTIVE': 'OBJECTIVE',
-    'PLAN': 'PLAN',
-    'ANESTHESIA': 'ANESTHESIA',
-    'CURRENT MEDICATIONS': 'MEDICATIONS',
-    'MEDICATIONS': 'MEDICATIONS',
-    'IMAGING': 'IMAGING',
-    'DOPPLER': 'IMAGING',
+    'INDICATION': 'DIAGNOSIS',
+    'INDICATION FOR SURGERY': 'DIAGNOSIS',
     'OTHER': 'OTHER',
-    'HEENT': 'OTHER',
+    'BLOOD LOSS': 'OTHER',
+    'ESTIMATED BLOOD LOSS': 'OTHER',
+    'OD': 'OTHER',
+    'RE': 'OTHER',
+    'IOL': 'OTHER',
+    'XYZ': 'OTHER',
+    'OS': 'OTHER',
+    'OU': 'OTHER',
+    'SPECIMEN': 'OTHER',
+    'SPECIMENS': 'OTHER',
+    'PMH': 'OTHER',
+    'IOP': 'OTHER',
     'REVIEW OF SYSTEMS': 'OTHER',
-    'MODE': 'OTHER',
+    'PATIENT INSTRUCTIONS': 'OTHER',
+    'PHACOEMULSIFICATION TIME': 'OTHER',
+    'INFORMED CONSENT': 'OTHER',
+    'LENS IMPLANT USED': 'OTHER',
+    'DISCHARGE': 'OTHER',
+    'PHACO TIME': 'OTHER',
+    'CONDITION': 'OTHER',
+    'TEST RESULTS': 'OTHER',
+    'INTRAOCULAR LENS': 'OTHER',
+    'TO PREVENT THE SPREAD OF THE INFECTION': 'OTHER',
+    'REFRACTION': 'OTHER',
+    'ASSISTANT': 'OTHER',
+    'NARRATIVE': 'OTHER',
+    'PROS DEV IMPLANT': 'OTHER',
 }
 
 
@@ -53,19 +108,25 @@ def parse_headings():
     df = pd.read_csv(SOURCE_PATH, index_col=0)
 
     # Retrieve all header in source data
-    for row in df['transcription'].iloc[:10].items():
-        idx, text = row
+    for row in df['transcription'].iloc[:].items():
+        try:
+            idx, text = row
 
-        reg_headers = r'[A-Z][A-Z ]+:'
+            reg_headers = r'[A-Z][A-Z ]+:'
 
-        headings += re.findall(reg_headers, text)
+            headings += re.findall(reg_headers, text)
+        except:
+            print(row)
 
+    print(Counter([i.strip(':') for i in headings]))
     return list(i.strip(':') for i in set(headings))
 
 
 def main():
     labels = parse_headings()
-    print(labels)
+
+    for label in labels:
+        print(label)
 
 
 
