@@ -9,6 +9,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, \
     TrainingArguments, Trainer
 
 from datasets import load_dataset, load_metric
+from sklearn.metrics import classification_report
 
 
 import pandas as pd
@@ -73,6 +74,9 @@ def transform_labels(label):
     return {'labels': num}
 
 
+
+
+
 def main():
     task2_df = pd.read_csv(DATA_PATH,header=0,usecols=['label','text']).dropna()
     task2_df.reset_index().to_csv('task2_full_data.csv')
@@ -93,12 +97,13 @@ def main():
 
 
 
-    training_args = TrainingArguments("test_trainer", num_train_epochs=1, logging_steps=100)
+    training_args = TrainingArguments("test_trainer", num_train_epochs=3, logging_steps=100)
 
     model = AutoModelForSequenceClassification.from_pretrained('bert-base-cased', num_labels=11)
     train_dataset = dataset.shuffle(seed=10).select(range(203))
     eval_dataset = dataset.shuffle(seed=10).select(range(203, 271))
     test_dataset = dataset.shuffle(seed=10).select(range(271, 339))
+    test_df = test_dataset.to_pandas()
 
     trainer = Trainer(
         model=model, args=training_args, train_dataset=train_dataset, eval_dataset=eval_dataset
@@ -116,8 +121,12 @@ def main():
     trainer.evaluate()
 
 
-    predictions = trainer.predict(test_dataset['train'])
+    predictions = trainer.predict(test_dataset)
     y_pred_list = list(np.argmax(predictions.predictions, axis=-1))
+    test_df['predictions'] = y_pred_list
+
+
+    test_df.to_csv('test_pred_final.csv')
 
     return None
 
@@ -127,3 +136,17 @@ def main():
 
 if __name__ == '__main__':
     main()
+    label_mapping = {0: 'ALLERGIES',1:'ANESTHESIA',2:'COMPLICATIONS',3:'DIAGNOSIS',4:'HISTORY',5:'MEDICATION',6:'OBJECTIVE',7:'OTHER',8:'PLAN',9:'PROCEDURE',10:'SUBJECTIVE'}
+    test_df = pd.read_csv('test_pred_final.csv')
+    print(test_df.columns)
+    #test_df = test_df.replace("labels",label_mapping)
+    #test_df = test_df.replace("predictions",label_mapping)
+    test_df['final_labels'] = test_df["labels"].map(label_mapping)
+    test_df['final_preds']  = test_df["predictions"].map(label_mapping)
+    y_val = test_df['final_labels']
+    y_p = test_df['final_preds']
+
+
+    report = classification_report(y_val, y_p)
+    print(report)
+
