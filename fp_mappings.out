@@ -1,0 +1,105 @@
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+2370|MMI|114.42|Local Anesthesia [PE]|C2930407|[ortf]|["Local Anesthesia"-ti-1-"local anesthesia"-noun-0]|TI|35/16|
+'EOT'
+'EOT'
+'EOT'
+2374|MMI|170.37|Photophobia|C0085636|[sosy]|["PHOTOPHOBIA"-ti-1-"photophobia"-noun-0]|TI|144/11|
+2374|MMI|122.10|Eye pain|C0151827|[sosy]|["Pain in eye"-ti-1-"pain in eye"-noun-0]|TI|97/7,111/3|
+2374|MMI|117.99|Headache|C0018681|[sosy]|["HEADACHE"-ti-1-"headache"-noun-0]|TI|131/8|
+2374|MMI|112.56|Iritis|C0022081|[dsyn]|["IRITIS"-ti-1-"iritis"-noun-0]|TI|71/6|
+'EOT'
+'EOT'
+2377|MMI|113.43|Local Anesthesia [PE]|C2930407|[ortf]|["Local Anesthesia"-ti-1-"local anesthesia"-noun-0]|TI|47/16|
+2378|MMI|125.15|Glaucoma, Open-Angle|C0017612|[dsyn]|["GLAUCOMA, OPEN ANGLE"-ti-2-"open angle glaucoma"-noun-0]|TI|224/19|
+2379|MMI|116.26|Traumatic implants|C0332837|[inpo]|["Implant"-ti-1-"implant"-noun-0]|TI|53/7|
+2380|MMI|170.37|Scleral staphyloma|C0155359|[dsyn]|["Staphyloma"-ti-2-"staphyloma"-noun-1]|TI|126/10|
+'EOT'
+'EOT'
+2383|MMI|113.03|Rupture|C3203359|[inpo]|["Ruptured"-ti-1-"ruptured"-adj-0]|TI|28/8|
+2384|MMI|116.98|Rupture of globe|C0339052|[inpo]|["Ruptured Globe"-ti-1-"Ruptured globe"-noun-0]|TI|18/14|
+2385|MMI|113.03|Rupture|C3203359|[inpo]|["Ruptured"-ti-1-"ruptured"-adj-0]|TI|28/8|
+'EOT'
+'EOT'
+2388|MMI|170.37|Macular retinal edema|C0271051|[dsyn]|["Macular oedema"-ti-1-"Macular edema"-noun-0]|TI|18/13|
+2388|MMI|118.42|Dental Plaque|C0011389|[dsyn]|["Plaque"-ti-3-"plaque"-noun-0,"Plaque"-ti-2-"plaque"-noun-0]|TI|118/6;70/6|
+2389|MMI|116.61|Recession|C0333047|[anab]|["Recession"-ti-1-"recession"-noun-0]|TI|35/9|
+'EOT'
+2391|MMI|121.00|Macular retinal edema|C0271051|[dsyn]|["Macular oedema"-ti-1-"macular edema"-noun-0]|TI|37/13|
+2391|MMI|113.92|Dental Plaque|C0011389|[dsyn]|["Plaque"-ti-1-"plaque"-noun-0]|TI|30/6|
+2392|MMI|116.77|Traumatic implants|C0332837|[inpo]|["Implant"-ti-1-"implant"-noun-0]|TI|68/7|
+2392|MMI|113.43|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"cataract"-noun-0]|TI|41/8|
+'EOT'
+'EOT'
+2395|MMI|113.43|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"cataract"-noun-0]|TI|41/8|
+'EOT'
+2397|MMI|118.79|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"cataract"-noun-0,"CATARACT"-ti-1-"Cataract"-noun-0]|TI|63/8;18/8|
+2398|MMI|115.48|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0,"CATARACT"-ti-1-"cataract"-noun-0]|TI|93/8;47/8|
+2399|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"Cataract"-noun-0]|TI|60/8|
+2399|MMI|116.49|Surgical wound|C0332803|[inpo]|["Incision"-ti-3-"incision"-noun-1]|TI|174/8|
+2399|MMI|112.50|Assault by stabbing|C0418391|[inpo]|["stab"-ti-3-"stab"-noun-1]|TI|169/4|
+2400|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|18/8|
+'EOT'
+2402|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"Cataract"-noun-0]|TI|117/8|
+2403|MMI|119.41|Cataract|C0086543|[anab]|["CATARACT"-ti-3-"cataract"-noun-0,"CATARACT"-ti-1-"cataract"-noun-0]|TI|200/8;39/8|
+2404|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|19/8|
+'EOT'
+2406|MMI|122.28|Nuclear non-senile cataract|C1112705|[dsyn]|["Cataract, nuclear sclerotic"-ti-1-"nuclear sclerotic cataract"-noun-0]|TI|39/26|
+2407|MMI|170.37|Nuclear non-senile cataract|C1112705|[dsyn]|["Cataract, nuclear sclerotic"-ti-1-"Nuclear sclerotic cataract"-noun-0]|TI|18/26|
+'EOT'
+2409|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|18/8|
+2410|MMI|170.37|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|18/8|
+'EOT'
+2412|MMI|113.43|Scleral laceration|C0521769|[inpo]|["Scleral laceration"-ti-1-"scleral laceration"-noun-0]|TI|122/18|
+2412|MMI|113.03|Injury wounds|C0043250|[inpo]|["WOUND"-ti-1-"wound"-noun-0]|TI|84/5|
+2412|MMI|113.03|Traumatic injury|C3263723|[inpo]|["Wound"-ti-1-"wound"-noun-0]|TI|84/5|
+'EOT'
+'EOT'
+2415|MMI|116.98|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|59/8|
+2416|MMI|119.67|Narrow angle|C1410927|[dsyn]|["Narrow angles"-ti-1-"narrow angles"-noun-0]|TI|39/13|
+2416|MMI|119.41|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|77/8|
+2417|MMI|116.77|Bilateral cataracts (disorder)|C0521707|[dsyn]|["Cataracts"-ti-1-"cataracts"-noun-0]|TI|61/9|
+2417|MMI|116.77|Cataract|C0086543|[anab]|["CATARACTS"-ti-1-"cataracts"-noun-0]|TI|61/9|
+2418|MMI|117.99|Diabetic Retinopathy|C0011884|[dsyn]|["DIABETIC RETINOPATHY"-ti-1-"diabetic retinopathy"-noun-0]|TI|66/20|
+2418|MMI|116.77|Retinal Diseases|C0035309|[dsyn]|["RETINOPATHY"-ti-1-"retinopathy"-noun-0]|TI|75/11|
+'EOT'
+'EOT'
+2421|MMI|170.37|Excessive tearing|C0152227|[dsyn]|["Tearing"-ti-2-"Tearing"-noun-0]|TI|52/7|
+2421|MMI|170.37|Laceration|C0043246|[inpo]|["tearing"-ti-2-"Tearing"-noun-0]|TI|52/7|
+2421|MMI|170.37|Rupture|C3203359|[inpo]|["tearing"-ti-2-"Tearing"-noun-0]|TI|52/7|
+'EOT'
+2423|MMI|112.50|Laceration|C0043246|[inpo]|["LACERATION"-ti-1-"laceration"-noun-0]|TI|50/10|
+'EOT'
+2425|MMI|170.37|Hanging|C0544691|[inpo]|["Hanging"-ti-1-"hanging"-verb-0]|TI|113/7|
+2425|MMI|116.98|Nystagmus|C0028738|[dsyn]|["NYSTAGMUS"-ti-1-"nystagmus"-noun-0]|TI|71/9|
+'EOT'
+'EOT'
+'EOT'
+2429|MMI|117.31|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"cataract"-noun-0]|TI|102/8|
+2429|MMI|113.43|Low Vision|C0042798|[dsyn]|["Decreased vision"-ti-1-"decreased vision"-noun-0]|TI|38/16|
+'EOT'
+2431|MMI|118.17|Cataract of right eye|C2025429|[dsyn]|["Cataract of right eye"-ti-2-"Cataract of right eye"-noun-0]|TI|42/8,92/2,99/9|
+2431|MMI|117.31|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|18/8|
+2432|MMI|170.37|Acute contagious conjunctivitis|C1313983|[dsyn]|["PINKEYE"-ti-1-"Pink Eye"-noun-0]|TI|51/8|
+2432|MMI|170.37|Keratoconjunctivitis due to Mycoplasma conjunctivae|C1261274|[dsyn]|["Pinkeye"-ti-1-"Pink Eye"-noun-0]|TI|51/8|
+2432|MMI|118.22|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-ti-1-"Conjunctivitis"-noun-0,"Pink Eye"-ti-1-"Pink Eye"-noun-0]|TI|35/14;51/8|
+2433|MMI|119.41|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"cataract"-noun-0]|TI|25/8|
+2434|MMI|119.21|Myopic astigmatism|C2363771|[dsyn]|["Myopic astigmatism"-ti-2-"myopia astigmatism"-noun-1]|TI|157/6,169/11|
+2434|MMI|117.54|Connective Tissue Diseases|C0009782|[dsyn]|["Disorder of Connective Tissue"-ti-1-"of connective tissue disorders"-noun-0]|TI|45/2,82/27|
+2435|MMI|116.70|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"cataract"-noun-0,"CATARACT"-ti-1-"cataract"-noun-0]|TI|120/8;42/8|
+'EOT'
+2437|MMI|112.80|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|35/8|
+2438|MMI|112.50|Spinal Muscular Atrophy|C0026847|[dsyn]|["SMA"-ti-1-"SMAS"-noun-0]|TI|144/4|
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+'EOT'
+2447|MMI|170.37|Entropion|C0014390|[dsyn]|["ENTROPION"-ti-2-"entropion"-noun-0]|TI|129/9|
+2448|MMI|112.40|Cutis Laxa|C0010495|[dsyn]|["Dermatochalasis"-ti-1-"dermatochalasis"-noun-0]|TI|87/15|
+'EOT'
