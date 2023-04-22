@@ -1,0 +1,323 @@
+'EOT'
+'EOT'
+2368|MMI|122.34|Retinal Perforations|C0035321|[dsyn]|["Retinal Tears"-ti-1-"retinal tears"-noun-0]|TI|[1285/13],[1647/13]|
+2368|MMI|117.99|Local disease|C0277565|[dsyn]|["Local"-ti-1-"Local"-adj-0]|TI|291/5|
+2368|MMI|114.13|Detachment of retina of right eye|C2218504|[dsyn]|["Right retinal detachment"-ti-1-"retinal detachment right"-noun-0]|TI|142/24|
+2368|MMI|114.06|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|65/18|
+2368|MMI|113.05|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|107/9;2265/9|
+2369|MMI|116.86|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|1322/20|
+2369|MMI|113.26|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0]|TI|30/9|
+'EOT'
+2371|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|1162/20|
+2371|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1478/9|
+2371|MMI|116.98|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|1183/3|
+2371|MMI|112.50|Local disease|C0277565|[dsyn]|["Local"-ti-1-"local"-noun-0]|TI|265/5|
+'EOT'
+2373|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|1733/20|
+2373|MMI|121.00|Endometriosis|C0014175|[dsyn]|["Endo"-ti-1-"Endo"-noun-0]|TI|2004/4|
+2373|MMI|114.42|Retinal Perforations|C0035321|[dsyn]|["Retinal Break"-ti-1-"retinal break"-noun-0]|TI|1933/13|
+2374|MMI|170.37|Genital ulcers|C0151281|[dsyn]|["Genital ulcers"-ti-1-"genital ulcers"-noun-1]|TI|265/14|
+2374|MMI|170.37|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-ti-1-"hepatitis B"-noun-0]|TI|2573/11|
+2374|MMI|170.37|Hepatitis C|C0019196|[dsyn]|["Hepatitis C"-ti-1-"hepatitis C"-noun-0]|TI|2589/11|
+2374|MMI|170.37|Syphilis|C0039128|[dsyn]|["SYPHILIS"-ti-1-"syphilis"-noun-1]|TI|236/8|
+2374|MMI|123.40|Nuclear sclerosis|C2939414|[dsyn]|["Nuclear sclerosis"-ti-1-"nuclear sclerosis"-noun-0]|TI|1091/17|
+2374|MMI|121.00|Hypertropia|C0020575|[dsyn]|["Hypertropia"-ti-1-"hypertropia"-noun-0]|TI|618/11|
+2374|MMI|119.98|Endophthalmitis|C0014236|[dsyn]|["Eye inflammation"-ti-1-"eye inflammation"-noun-0]|TI|1420/16|
+2374|MMI|118.84|Nongranulomatous uveitis|C4024795|[dsyn]|["Nongranulomatous uveitis"-ti-1-"nongranulomatous uveitis"-noun-0]|TI|1349/16,1374/7|
+2374|MMI|118.24|Rubeosis iridis|C0154916|[dsyn]|["Iris neovascularization"-ti-1-"neovascularization iris"-noun-0]|TI|734/18,760/4|
+2374|MMI|117.99|Arthritis of knee|C0240111|[dsyn]|["KNEE ARTHRITIS"-ti-1-"knee arthritis"-noun-0]|TI|181/14|
+2374|MMI|117.99|Asthma|C0004096|[dsyn]|["ASTHMA"-ti-1-"asthma"-noun-0]|TI|98/6|
+2374|MMI|117.31|Adhesions of iris|C0154933|[dsyn]|["Iris synechia"-ti-1-"iris synechia"-noun-0]|TI|844/13|
+2374|MMI|116.77|Arthritis|C0003864|[dsyn]|["ARTHRITIS"-ti-1-"arthritis"-noun-0]|TI|186/9|
+2374|MMI|114.27|Acute GVH disease|C0856825|[dsyn]|["Acute"-ti-1-"acute"-noun-0]|TI|2027/5|
+2374|MMI|113.43|Chronic graft-versus-host disease|C0867389|[dsyn]|["Chronic"-ti-1-"Chronic"-adj-0]|TI|1321/7|
+2374|MMI|113.43|Uveitis, Posterior|C0042167|[dsyn]|["Posterior Uveitis"-ti-1-"posterior uveitis"-noun-1]|TI|1248/17|
+2374|MMI|112.50|Gastroesophageal reflux disease|C0017168|[dsyn]|["GERD"-ti-1-"GERD"-noun-0]|TI|55/4|
+2375|MMI|117.31|Chronic graft-versus-host disease|C0867389|[dsyn]|["Chronic"-ti-1-"chronic"-adj-0]|TI|434/7|
+2375|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|427/3|
+2375|MMI|116.86|Macular Edema, Cystoid|C0024440|[dsyn]|["Cystoid macular oedema"-ti-1-"cystoid macular edema"-noun-0]|TI|286/21|
+2375|MMI|114.27|Deep Vein Thrombosis|C0149871|[dsyn]|["DVT NOS"-ti-1-"DVT"-noun-1]|TI|1171/3|
+'EOT'
+'EOT'
+2378|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2977/9|
+2378|MMI|120.03|Glaucoma, Open-Angle|C0017612|[dsyn]|["GLAUCOMA, OPEN ANGLE"-ti-1-"open angle glaucoma"-noun-0]|TI|[55/19],[155/19]|
+2378|MMI|118.67|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[2407/3],[2606/3]|
+2378|MMI|114.27|Bacterial Vaginosis|C0085166|[dsyn]|["BV"-ti-1-"BV"-noun-0]|TI|2595/2|
+2379|MMI|125.81|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[1736/3],[2739/3],[3566/3]|
+2379|MMI|117.71|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|471/14|
+2379|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|2769/3|
+2379|MMI|113.70|Glaucoma, Open-Angle|C0017612|[dsyn]|["GLAUCOMA, OPEN ANGLE"-ti-1-"Open angle glaucoma"-noun-0]|TI|40/19|
+2379|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|436/18|
+2379|MMI|112.76|Retinal Hemorrhage|C0035317|[dsyn]|["bleeding retinal"-ti-1-"bleeding retinal"-noun-0]|TI|405/8,436/7|
+2379|MMI|112.57|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[228/8],[565/8]|
+2379|MMI|112.40|Blepharoptosis|C0005745|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|464/6|
+2379|MMI|112.40|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|414/9|
+2379|MMI|112.40|Ptosis|C0033377|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|464/6|
+2380|MMI|170.37|Scleral staphyloma|C0155359|[dsyn]|["Staphyloma"-ti-1-"staphyloma"-noun-1]|TI|724/10|
+2381|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|3758/9|
+2381|MMI|117.71|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|475/14|
+2381|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|440/18|
+2381|MMI|112.76|Retinal Hemorrhage|C0035317|[dsyn]|["bleeding retinal"-ti-1-"bleeding retinal"-noun-0]|TI|409/8,440/7|
+2381|MMI|112.62|Glaucoma, Open-Angle|C0017612|[dsyn]|["GLAUCOMA, OPEN ANGLE"-ti-1-"Open angle glaucoma"-noun-0]|TI|40/19|
+2381|MMI|112.57|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[232/8],[569/8]|
+2381|MMI|112.40|Blepharoptosis|C0005745|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|468/6|
+2381|MMI|112.40|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|418/9|
+2381|MMI|112.40|Ptosis|C0033377|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|468/6|
+'EOT'
+2383|MMI|170.37|Weyers acrofacial dysostosis|C0457013|[dsyn]|["WAD"-ti-1-"wad"-verb-0]|TI|631/3|
+2383|MMI|120.17|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|72/9;2235/9|
+2383|MMI|119.67|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|394/14|
+2383|MMI|118.22|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[1180/3],[1201/3]|
+2383|MMI|112.66|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|372/9|
+2384|MMI|170.37|Weyers acrofacial dysostosis|C0457013|[dsyn]|["WAD"-ti-1-"wad"-verb-0]|TI|801/3|
+2384|MMI|119.41|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|1289/3|
+2384|MMI|118.35|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|564/14|
+2384|MMI|115.83|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|110/9;1965/9|
+2384|MMI|112.50|Astigmatism|C0004106|[dsyn]|["ASTIGMATISM"-ti-1-"astigmatism"-noun-0]|TI|531/11|
+2384|MMI|112.50|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|521/9|
+2385|MMI|170.37|Weyers acrofacial dysostosis|C0457013|[dsyn]|["WAD"-ti-1-"wad"-verb-0]|TI|707/3|
+2385|MMI|119.67|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|470/14|
+2385|MMI|115.90|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|92/9;2563/9|
+2385|MMI|115.05|Ptosis|C0033377|[dsyn]|["PROLAPSE"-ti-1-"prolapsed"-adj-0,"PROLAPSE"-ti-1-"prolapsed"-verb-0]|TI|[988/9],[1194/9];[988/9],[1194/9]|
+2385|MMI|112.66|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|448/9|
+2385|MMI|112.56|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|1667/3|
+2386|MMI|170.37|Retinopathy of Prematurity|C0035344|[dsyn]|["RETINOPATHY OF PREMATURITY"-ti-1-"retinopathy of prematurity"-noun-1]|TI|565/26|
+2387|MMI|117.99|Local disease|C0277565|[dsyn]|["Local"-ti-1-"local"-adj-0]|TI|565/5|
+2387|MMI|112.66|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|3439/9|
+2388|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|907/20|
+2388|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1045/9|
+2388|MMI|117.71|Dental Plaque|C0011389|[dsyn]|["Plaque"-ti-1-"plaque"-noun-0]|TI|[157/6],[632/6]|
+2388|MMI|113.92|Local disease|C0277565|[dsyn]|["Local"-ti-1-"local"-adj-0]|TI|289/5|
+2388|MMI|112.42|Macular retinal edema|C0271051|[dsyn]|["Macular oedema"-ti-1-"Macular edema"-noun-0]|TI|41/13|
+2389|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|[1517/3],[1988/3]|
+2389|MMI|114.51|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|184/9;2000/9|
+2389|MMI|112.53|Infantile esotropia|C0339619|[dsyn]|["Congenital esotropia"-ti-1-"Congenital esotropia"-noun-0]|TI|[41/10,62/9],[195/10,216/9]|
+2390|MMI|116.98|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|2505/3|
+2390|MMI|115.53|Spinal Muscular Atrophy|C0026847|[dsyn]|["SMA"-ti-1-"SMAS"-noun-0]|TI|[3309/4],[3388/4]|
+2390|MMI|115.42|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|["PLAN"-ti-1-"plans"-noun-0]|TI|2127/5|
+2391|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|956/9|
+2391|MMI|120.68|Dental Plaque|C0011389|[dsyn]|["Plaque"-ti-1-"plaque"-noun-0]|TI|[53/6],[600/6],[668/6]|
+2391|MMI|113.92|Local disease|C0277565|[dsyn]|["Local"-ti-1-"local"-adj-0]|TI|305/5|
+2392|MMI|128.63|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0,"condition"-ti-1-"conditions"-verb-0]|TI|4870/9;[561/10],[1491/10]|
+2392|MMI|117.22|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0,"loss of vision"-ti-1-"loss of vision"-noun-1]|TI|[1033/14],[1092/7,1120/6];[1033/14],[1092/7,1120/6]|
+2392|MMI|116.86|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-1]|TI|1048/18|
+2392|MMI|116.80|Retinal Hemorrhage|C0035317|[dsyn]|["bleeding retinal"-ti-1-"bleeding retinal"-noun-1]|TI|1024/8,1048/7|
+2392|MMI|116.58|Blindness|C0456909|[dsyn]|["VISION LOSS"-ti-1-"loss vision"-noun-0]|TI|1092/4,1120/6|
+2392|MMI|116.32|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-1]|TI|1014/9|
+2392|MMI|112.94|pressure area|C1395831|[dsyn]|["pressure area"-ti-1-"area pressure"-noun-0]|TI|1839/4,1852/8|
+'EOT'
+2394|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|3691/9|
+2394|MMI|116.98|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|350/3|
+2395|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2684/9|
+2396|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|3208/9|
+2396|MMI|118.57|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|252/18|
+2396|MMI|112.90|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"Intraocular pressure"-noun-0]|TI|3073/20|
+2397|MMI|116.29|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["DRESS"-ti-1-"dressed"-verb-0]|TI|1649/7|
+2397|MMI|113.39|Posterior dislocation of lens|C0155373|[dsyn]|["Lens in posterior chamber"-ti-1-"posterior chamber lens IN"-noun-0]|TI|150/17,180/4,242/2|
+2398|MMI|117.99|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|970/3|
+2399|MMI|170.37|SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME|C3542022|[dsyn]|["SOFT"-ti-1-"soft"-adj-0]|TI|1348/4|
+2399|MMI|117.31|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1530/9|
+2399|MMI|116.77|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[771/3],[1197/3]|
+2400|MMI|114.89|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[1216/3],[1690/3]|
+2401|MMI|170.37|Miosis disorder|C0026205|[dsyn]|["PUPILLARY CONSTRICTION"-ti-1-"pupillary constriction"-noun-0]|TI|1912/22|
+2401|MMI|117.99|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|1076/3|
+2401|MMI|112.66|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2180/9|
+2402|MMI|113.74|Actinic cheilitis|C0267026|[dsyn]|["AC"-ti-1-"AC"-noun-0]|TI|217/2|
+2402|MMI|113.46|Local disease|C0277565|[dsyn]|["Local"-ti-1-"Local"-adj-0]|TI|276/5|
+2403|MMI|121.58|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[1731/3],[2343/3]|
+2403|MMI|117.99|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|2317/20|
+2403|MMI|116.64|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|93/9;2529/9|
+2403|MMI|116.43|Cardiovascular disease+Pulmonary disease|C4072686|[dsyn]|["Cardiopulmonary"-ti-1-"cardiopulmonary"-adj-0]|TI|931/15|
+2404|MMI|170.37|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|3136/3|
+2404|MMI|170.37|Orbital congestion|C0271335|[dsyn]|["Orbital congestion"-ti-1-"orbital congestion"-noun-0]|TI|1612/18|
+2404|MMI|117.99|Bilateral cataracts (disorder)|C0521707|[dsyn]|["Cataracts"-ti-1-"cataracts"-noun-0]|TI|586/9|
+2404|MMI|116.98|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|1134/3|
+2404|MMI|116.37|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|30/9;3716/9|
+2404|MMI|113.81|Bacterial Infections|C0004623|[dsyn]|["Bacterial Infection"-ti-1-"bacterial infection"-noun-0]|TI|1225/19|
+2404|MMI|112.90|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|3208/20|
+2405|MMI|117.00|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|17/9;2256/9|
+2405|MMI|116.61|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["TEN"-ti-1-"ten"-noun-0]|TI|524/3|
+2406|MMI|170.37|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|3592/3|
+2406|MMI|116.98|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-1]|TI|848/9|
+2406|MMI|116.35|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|30/9;4188/9|
+2406|MMI|114.27|SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME|C3542022|[dsyn]|["SOFT"-ti-1-"soft"-adj-1]|TI|4038/4|
+2406|MMI|113.61|Nuclear non-senile cataract|C1112705|[dsyn]|["Cataract, nuclear sclerotic"-ti-1-"nuclear sclerotic cataract"-noun-0]|TI|62/26|
+2406|MMI|113.20|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|897/18|
+2406|MMI|112.90|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|3664/20|
+2407|MMI|118.57|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|1657/20|
+2407|MMI|113.70|Nuclear non-senile cataract|C1112705|[dsyn]|["Cataract, nuclear sclerotic"-ti-1-"Nuclear sclerotic cataract"-noun-0]|TI|41/26|
+2407|MMI|113.33|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0]|TI|30/9|
+2408|MMI|121.00|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|581/18|
+2408|MMI|117.31|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-1]|TI|524/14|
+2408|MMI|116.70|Eye Infection|C0015403|[dsyn]|["EYE INFECTION"-ti-1-"infection eye"-noun-1]|TI|514/9,551/3|
+2408|MMI|116.26|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-1]|TI|514/9|
+'EOT'
+2410|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1713/9|
+2410|MMI|117.31|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|982/3|
+2411|MMI|123.40|Macular retinal edema|C0271051|[dsyn]|["Macular oedema"-ti-1-"macular edema"-noun-1]|TI|81/13|
+2412|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|4753/20|
+2412|MMI|170.37|Posterior Vitreous Detachment|C0423361|[dsyn]|["Posterior Vitreous Detachment"-ti-1-"posterior vitreous detachment"-noun-0]|TI|3126/29|
+2412|MMI|170.37|Retinal Perforations|C0035321|[dsyn]|["Retinal Breaks"-ti-1-"retinal breaks"-noun-1]|TI|3853/14|
+2412|MMI|117.57|Ischemic maculopathy|C0730286|[dsyn]|["Macular ischemia"-ti-1-"macular ischemia"-noun-0]|TI|3400/16|
+2412|MMI|114.11|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0]|TI|[542/9],[714/9]|
+2413|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2458/9|
+2413|MMI|115.19|Low Vision|C0042798|[dsyn]|["Decreased vision"-ti-1-"decreased vision"-noun-0,"loss of vision"-ti-1-"loss of vision"-noun-0]|TI|266/16;456/14|
+2413|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|409/18|
+2413|MMI|112.76|Retinal Hemorrhage|C0035317|[dsyn]|["bleeding retinal"-ti-1-"bleeding retinal"-noun-0]|TI|390/8,409/7|
+2413|MMI|112.47|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|[1635/3],[2155/3]|
+2413|MMI|112.40|Blepharoptosis|C0005745|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|449/6|
+2413|MMI|112.40|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|399/9|
+2413|MMI|112.40|Ptosis|C0033377|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-0]|TI|449/6|
+2414|MMI|116.32|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0]|TI|1245/2|
+2414|MMI|113.43|Low Vision|C0042798|[dsyn]|["Low Vision"-ti-1-"low vision"-noun-0]|TI|1071/10|
+2415|MMI|170.37|Relative afferent pupillary defect|C0549122|[dsyn]|["Relative afferent pupillary defect"-ti-1-"relative afferent pupillary defect"-noun-1]|TI|364/34|
+2415|MMI|118.14|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0,"GLAUCOMA"-ti-1-"glaucoma"-noun-1]|TI|[147/8],[976/8],[1447/8];[147/8],[976/8],[1447/8]|
+2415|MMI|113.03|Nuclear sclerosis|C2939414|[dsyn]|["Nuclear sclerosis"-ti-1-"nuclear sclerosis"-noun-0]|TI|524/17|
+2416|MMI|170.37|Lupus erythematosus tumidus|C0406636|[dsyn]|["LET"-ti-1-"let"-adv-0]|TI|2198/3|
+2416|MMI|119.12|Narrow angle|C1410927|[dsyn]|["Narrow angles"-ti-1-"narrow angles"-noun-0]|TI|[132/13],[1910/13]|
+2416|MMI|115.11|Photopsia|C0085635|[dsyn]|["Flashing lights"-ti-1-"flashing lights"-noun-1]|TI|314/15|
+2416|MMI|114.42|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["Noninsulin Dependent Diabetes"-ti-1-"noninsulin dependent diabetes"-noun-0]|TI|542/29|
+2416|MMI|113.41|Intraocular pressure disorder|C0595921|[dsyn]|["pressure in eye"-ti-1-"pressures in eye"-noun-0]|TI|845/9,867/2,877/3|
+2416|MMI|112.42|Adhesions of iris|C0154933|[dsyn]|["synechia"-ti-1-"synechial"-adj-1]|TI|1194/9|
+2416|MMI|112.40|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|170/8|
+2417|MMI|170.37|Actinic cheilitis|C0267026|[dsyn]|["AC"-ti-1-"AC"-noun-0]|TI|545/2|
+2417|MMI|121.00|Corneal dystrophy, Fuchs' endothelial, 1|C1850959|[dsyn]|["Fuchs' dystrophy"-ti-1-"Fuchs dystrophy"-noun-0]|TI|1002/15|
+2417|MMI|121.00|Fuchs Endothelial Dystrophy|C0016781|[dsyn]|["Fuchs Dystrophy"-ti-1-"Fuchs dystrophy"-noun-0]|TI|1002/15|
+2417|MMI|118.57|Relative afferent pupillary defect|C0549122|[dsyn]|["Relative afferent pupillary defect"-ti-1-"relative afferent pupillary defect"-noun-1]|TI|378/34|
+2417|MMI|118.35|Nuclear non-senile cataract|C1112705|[dsyn]|["Cataract, nuclear sclerotic"-ti-1-"nuclear sclerotic cataract"-noun-0]|TI|639/26|
+2417|MMI|118.00|Bilateral cataracts (disorder)|C0521707|[dsyn]|["Bilateral Cataracts"-ti-1-"bilateral cataracts"-noun-0,"Cataracts"-ti-1-"cataracts"-noun-0]|TI|871/19;141/9|
+2418|MMI|117.31|Diabetes|C0011847|[dsyn]|["Diabetes"-ti-1-"diabetes"-noun-0]|TI|210/8|
+2418|MMI|117.31|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-ti-1-"diabetes"-noun-0]|TI|210/8|
+2418|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-1]|TI|572/3|
+2418|MMI|116.77|Retinal Diseases|C0035309|[dsyn]|["RETINOPATHY"-ti-1-"retinopathy"-noun-0]|TI|161/11|
+2418|MMI|115.67|Diabetic Retinopathy|C0011884|[dsyn]|["DIABETIC RETINOPATHY"-ti-1-"diabetic retinopathy"-noun-0,"DIABETIC RETINOPATHY"-ti-1-"diabetic retinopathy"-noun-1]|TI|[152/20],[851/20];[152/20],[851/20]|
+2418|MMI|115.53|Relative afferent pupillary defect|C0549122|[dsyn]|["Relative afferent pupillary defect"-ti-1-"relative afferent pupillary defect"-noun-1]|TI|514/34|
+2418|MMI|113.03|Nuclear sclerosis|C2939414|[dsyn]|["Nuclear sclerosis"-ti-1-"nuclear sclerosis"-noun-0]|TI|619/17|
+2418|MMI|112.80|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0]|TI|328/2|
+2419|MMI|137.72|Allergy to aspirin|C0004058|[dsyn]|["Allergy to aspirin"-ti-1-"allergies to aspirin"-noun-0]|TI|125/20|
+2419|MMI|113.63|Ventricular Fibrillation|C0042510|[dsyn]|["VF"-ti-1-"VF"-noun-0]|TI|1313/2|
+2419|MMI|113.63|Ventricular Fibrillation, Paroxysmal Familial, 1|C2751898|[dsyn]|["VF"-ti-1-"VF"-noun-0]|TI|1313/2|
+2419|MMI|113.28|Disease|C0012634|[dsyn]|["condition"-ti-1-"Condition"-noun-0]|TI|1436/9|
+2419|MMI|113.26|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0]|TI|[1399/2],[2239/2]|
+2419|MMI|112.94|eyelid infection|C0549322|[dsyn]|["infection eyelid"-ti-1-"infection eyelids"-noun-1]|TI|1564/9,1585/7|
+2420|MMI|170.37|Adhesions of iris|C0154933|[dsyn]|["Synechiae NOS"-ti-1-"synechiae"-noun-0]|TI|2298/9|
+2420|MMI|170.37|Preretinal hemorrhage|C4316879|[dsyn]|["Preretinal haemorrhage"-ti-1-"preretinal hemorrhage"-noun-1]|TI|458/21|
+2420|MMI|125.15|Peripheral anterior synechiae|C0154934|[dsyn]|["Peripheral anterior synechiae"-ti-1-"peripheral anterior synechiae"-noun-0]|TI|2258/29|
+2420|MMI|116.32|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|725/9;4348/9|
+2421|MMI|125.86|Excessive tearing|C0152227|[dsyn]|["Tearing"-ti-1-"Tearing"-verb-0,"Tearing"-ti-1-"tearing"-noun-0]|TI|41/7;460/7|
+2421|MMI|121.00|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-ti-1-"conjunctivitis"-noun-0]|TI|671/14|
+2421|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|3862/9|
+2421|MMI|117.21|hemorrhage symptom|C0858540|[dsyn]|["Bleeding symptoms"-ti-1-"bleeding symptoms"-noun-1]|TI|1230/8,1250/8|
+'EOT'
+2423|MMI|119.67|Low Vision|C0042798|[dsyn]|["loss of vision"-ti-1-"loss of vision"-noun-0]|TI|566/14|
+2423|MMI|116.98|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|1555/3|
+2423|MMI|112.66|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-0]|TI|544/9|
+2423|MMI|112.66|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1806/9|
+2424|MMI|118.50|Paresthesia|C0030554|[dsyn]|["Tingling"-ti-1-"tingling"-noun-1]|TI|1518/8|
+2424|MMI|118.11|Blepharoptosis|C0005745|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-1]|TI|[2214/6],[2439/6]|
+2424|MMI|118.11|Ptosis|C0033377|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-1]|TI|[2214/6],[2439/6]|
+2424|MMI|117.31|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-ti-1-"stroke"-noun-1]|TI|3140/6|
+2424|MMI|116.80|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-1]|TI|[175/3],[1667/3]|
+2424|MMI|113.74|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-ti-1-"dysphagia"-noun-1]|TI|1479/9|
+2424|MMI|112.90|Myasthenia Gravis|C0026896|[dsyn]|["MYASTHENIA GRAVIS"-ti-1-"myasthenia gravis"-noun-1]|TI|2108/17|
+2425|MMI|117.03|Nystagmus|C0028738|[dsyn]|["NYSTAGMUS"-ti-1-"nystagmus"-noun-0,"NYSTAGMUS"-ti-1-"nystagmus"-noun-1]|TI|[604/9],[1005/9],[1054/9],[1257/9],[1667/9],[1754/9];[604/9],[1005/9],[1054/9],[1257/9],[1667/9],[1754/9]|
+2426|MMI|170.37|Glaucoma, Suspect|C0017614|[dsyn]|["Glaucoma suspect"-ti-1-"Glaucoma suspect"-adj-0]|TI|2921/16|
+2426|MMI|170.37|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|["PLAN"-ti-1-"plans"-verb-0]|TI|3127/5|
+2426|MMI|124.34|Drusen|C1260959|[dsyn]|["Drusen"-ti-1-"drusen"-noun-0]|TI|[2332/6],[2699/6]|
+2426|MMI|119.41|Presbyopia|C0033075|[dsyn]|["PRESBYOPIA"-ti-1-"Presbyopia"-noun-0]|TI|3010/10|
+2426|MMI|116.67|Macula hemorrhage|C0860525|[dsyn]|["Macula hemorrhage"-ti-1-"hemorrhages macula"-noun-1]|TI|2632/11,2667/6|
+2426|MMI|114.06|Age related macular degeneration|C0242383|[dsyn]|["Age related macular degeneration"-ti-1-"Agerelated macular degeneration"-noun-0,"Age related macular degeneration"-ti-1-"agerelated macular degeneration"-noun-1]|TI|2843/31;1073/31|
+2426|MMI|113.74|Bilateral cataracts (disorder)|C0521707|[dsyn]|["Cataracts"-ti-1-"cataracts"-noun-0]|TI|3063/9|
+2426|MMI|113.43|Astigmatism|C0004106|[dsyn]|["ASTIGMATISM"-ti-1-"astigmatism"-noun-0]|TI|539/11|
+2426|MMI|113.43|Diabetes|C0011847|[dsyn]|["Diabetes"-ti-1-"diabetes"-noun-0]|TI|911/8|
+2426|MMI|113.43|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-ti-1-"diabetes"-noun-0]|TI|911/8|
+2426|MMI|112.44|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|3396/8|
+2426|MMI|112.34|Gastroesophageal reflux disease|C0017168|[dsyn]|["GERD"-ti-1-"GERD"-noun-0]|TI|797/4|
+2426|MMI|112.34|Hypercholesterolemia|C0020443|[dsyn]|["HYPERCHOLESTEROLEMIA"-ti-1-"hypercholesterolemia"-noun-0]|TI|776/20|
+2426|MMI|112.34|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-ti-1-"hypertension"-noun-0]|TI|734/12|
+2427|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|5041/9|
+2427|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|3198/3|
+2427|MMI|117.18|Infection of face|C0577649|[dsyn]|["Infection of face"-ti-1-"infection of face"-noun-1]|TI|1361/9,1413/2,1420/4|
+2427|MMI|116.26|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-1]|TI|1361/9|
+2427|MMI|112.90|Alopecia|C0002170|[dsyn]|["HAIR LOSS"-ti-1-"hair loss"-noun-0]|TI|1523/9|
+2427|MMI|112.82|Bell Palsy|C0376175|[dsyn]|["Facial nerve paralysis"-ti-1-"face nerve paralysis"-noun-0]|TI|1452/4,1464/15|
+2427|MMI|112.82|Facial paralysis|C0015469|[dsyn]|["Facial Nerve Paralysis"-ti-1-"face nerve paralysis"-noun-0]|TI|1452/4,1464/15|
+2428|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1406/9|
+2429|MMI|170.37|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[779/8],[1771/8],[2541/8]|
+2429|MMI|170.37|Hypercholesterolemia|C0020443|[dsyn]|["HYPERCHOLESTEROLEMIA"-ti-1-"hypercholesterolemia"-noun-0]|TI|410/20|
+2429|MMI|170.37|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-ti-1-"hypertension"-noun-0]|TI|393/12|
+2429|MMI|122.04|Age related macular degeneration|C0242383|[dsyn]|["Macular Degeneration"-ti-1-"macular degeneration"-noun-0]|TI|[184/20],[3089/20],[3447/20]|
+2429|MMI|122.04|Macular degeneration|C0024437|[dsyn]|["MACULAR DEGENERATION"-ti-1-"macular degeneration"-noun-0]|TI|[184/20],[3089/20],[3447/20]|
+2429|MMI|117.67|eye change|C0743675|[dsyn]|["change eyes"-ti-1-"changes eyes"-noun-0]|TI|3131/7,3147/4|
+2429|MMI|117.57|Drusen|C1260959|[dsyn]|["Drusen"-ti-1-"drusen"-noun-0]|TI|[1892/6],[2171/6]|
+2429|MMI|117.57|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|2650/20|
+2429|MMI|117.57|Low Vision|C0042798|[dsyn]|["Poor vision"-ti-1-"poor vision"-noun-0]|TI|2617/11|
+2429|MMI|117.31|Hypothyroidism|C0020676|[dsyn]|["HYPOTHYROIDISM"-ti-1-"hypothyroidism"-noun-0]|TI|633/14|
+2429|MMI|115.11|Dry Eye Syndromes|C0013238|[dsyn]|["Dry Eye"-ti-1-"dry eye"-noun-0]|TI|1257/7|
+2429|MMI|112.80|Blindness|C0456909|[dsyn]|["BLINDNESS"-ti-1-"blindness"-noun-0]|TI|743/9|
+2429|MMI|112.66|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0]|TI|2925/2|
+2430|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2139/9|
+2430|MMI|117.99|Local disease|C0277565|[dsyn]|["Local"-ti-1-"Local"-adj-0]|TI|352/5|
+2431|MMI|170.37|Ptosis|C0033377|[dsyn]|["PROLAPSE"-ti-1-"prolapse"-verb-0]|TI|1577/8|
+2431|MMI|117.67|Allergy to acetazolamide|C0571933|[dsyn]|["Allergy to acetazolamide"-ti-1-"Diamox to allergy"-noun-1]|TI|2767/6,2778/2,2791/7|
+2431|MMI|115.11|SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME|C3542022|[dsyn]|["SOFT"-ti-1-"Soft"-adj-0]|TI|2596/4|
+2431|MMI|113.03|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-1]|TI|2245/3|
+2432|MMI|170.37|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-ti-1-"infection"-noun-1]|TI|[757/9],[900/9]|
+2432|MMI|123.14|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-ti-1-"CONJUNCTIVITIS"-noun-0,"Pink Eye"-ti-1-"Pink Eye"-noun-0,"Pink Eye"-ti-1-"eye Pink"-noun-1]|TI|17/14;[48/8],[359/8];934/3,951/4|
+2432|MMI|121.10|Acute contagious conjunctivitis|C1313983|[dsyn]|["PINKEYE"-ti-1-"Pink Eye"-noun-0,"PINKEYE"-ti-1-"eye Pink"-noun-1]|TI|[48/8],[359/8];934/3,951/4|
+2432|MMI|121.10|Keratoconjunctivitis due to Mycoplasma conjunctivae|C1261274|[dsyn]|["Pinkeye"-ti-1-"Pink Eye"-noun-0,"Pinkeye"-ti-1-"eye Pink"-noun-1]|TI|[48/8],[359/8];934/3,951/4|
+2432|MMI|117.21|eyelid infection|C0549322|[dsyn]|["infection eyelid"-ti-1-"infection eyelid"-noun-0]|TI|63/9,95/6|
+2433|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-0]|TI|1776/20|
+2434|MMI|170.37|Stickler syndrome (disorder)|C0265253|[dsyn]|["Stickler's syndrome"-ti-1-"Stickler syndrome"-noun-0]|TI|1737/17|
+2434|MMI|170.37|Stickler syndrome, type 1|C2020284|[dsyn]|["Stickler Syndrome"-ti-1-"Stickler syndrome"-noun-0]|TI|1737/17|
+2434|MMI|116.61|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"diagnosis"-noun-0]|TI|62/9|
+2434|MMI|114.27|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorder"-ti-1-"connective tissue disorder"-noun-0,"Disorder of Connective Tissue"-ti-1-"of connective tissue disorder"-noun-0]|TI|1700/26;72/29|
+2434|MMI|114.19|Peripheral retinal degeneration|C1320640|[dsyn]|["Peripheral Retinal Degeneration"-ti-1-"peripheral retinal degeneration"-noun-0,"Peripheral Retinal Degeneration"-ti-1-"peripheral retinal degeneration"-noun-1]|TI|[1324/31],[1502/31];[1324/31],[1502/31]|
+2434|MMI|113.50|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0,"RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-1]|TI|[1464/18],[1825/18];[1464/18],[1825/18]|
+2434|MMI|113.43|Moderate myopia|C4315867|[dsyn]|["Moderate myopia"-ti-1-"moderate myopia"-noun-0]|TI|1603/15|
+2434|MMI|112.56|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0]|TI|478/2|
+2435|MMI|170.37|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"intraocular pressure"-noun-1]|TI|543/20|
+2435|MMI|121.05|Idiopathic chronic inflammatory bowel disease|C0267374|[dsyn]|["Inflammatory bowel disease"-ti-1-"inflammatory bowel disease"-noun-0]|TI|[183/26],[1790/26]|
+2435|MMI|121.05|Inflammatory Bowel Diseases|C0021390|[dsyn]|["INFLAMMATORY BOWEL DISEASE"-ti-1-"inflammatory bowel disease"-noun-0]|TI|[183/26],[1790/26]|
+2435|MMI|117.11|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-ti-1-"diabetes mellitus"-noun-0]|TI|69/17|
+2435|MMI|116.77|Familial Osteochondritis Dissecans|C3665488|[dsyn]|["OD"-ti-1-"OD"-noun-0,"OD"-ti-1-"OD"-noun-1]|TI|[343/2],[571/2];[343/2],[571/2]|
+2435|MMI|115.11|Nuclear sclerosis|C2939414|[dsyn]|["Nuclear sclerosis"-ti-1-"nuclear sclerosis"-noun-0]|TI|1104/17|
+2435|MMI|114.34|Scleritis|C0036416|[dsyn]|["SCLERITIS"-ti-1-"scleritis"-noun-0]|TI|[1584/9],[1827/9],[1946/9]|
+2436|MMI|170.37|Miosis disorder|C0026205|[dsyn]|["PUPILLARY CONSTRICTION"-ti-1-"pupillary constriction"-noun-0]|TI|2104/22|
+2436|MMI|117.99|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|1298/3|
+2436|MMI|112.66|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2359/9|
+2437|MMI|113.81|Blindness|C0456909|[dsyn]|["Visual loss, NOS"-ti-1-"visual loss"-noun-0]|TI|453/11|
+2437|MMI|112.24|Diabetes|C0011847|[dsyn]|["Diabetes"-ti-1-"Diabetes"-noun-0]|TI|243/8|
+2437|MMI|112.24|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-ti-1-"Diabetes"-noun-0]|TI|243/8|
+2438|MMI|116.77|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|5309/9|
+2438|MMI|116.77|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|884/3|
+2438|MMI|116.61|Cutis Laxa|C0010495|[dsyn]|["dermatochalazia"-ti-1-"Dermatochalasia"-noun-0]|TI|59/15|
+2438|MMI|116.49|Local disease|C0277565|[dsyn]|["Local"-ti-1-"Local"-adj-0]|TI|648/5|
+2438|MMI|113.32|Spinal Muscular Atrophy|C0026847|[dsyn]|["SMA"-ti-1-"SMAS"-noun-0]|TI|[446/4],[3731/4],[4144/4]|
+2439|MMI|116.49|Barber Say syndrome|C1319466|[dsyn]|["BSS"-ti-1-"BSS"-noun-0]|TI|972/3|
+2440|MMI|117.00|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0]|TI|72/9;2072/9|
+2441|MMI|117.31|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2011/9|
+2442|MMI|118.81|Bilateral cataracts (disorder)|C0521707|[dsyn]|["Cataracts"-ti-1-"Cataracts"-noun-0]|TI|1064/9|
+2442|MMI|117.99|Nuclear sclerosis|C2939414|[dsyn]|["Nuclear sclerosis"-ti-1-"nuclear sclerosis"-noun-0]|TI|753/17|
+2442|MMI|117.31|Posterior subcapsular cataract|C0858617|[dsyn]|["Posterior Subcapsular Cataract"-ti-1-"posterior subcapsular cataract"-noun-0]|TI|810/30|
+2442|MMI|115.05|Age related macular degeneration|C0242383|[dsyn]|["Age related macular degeneration"-ti-1-"agerelated macular degeneration"-noun-0]|TI|[278/31],[991/31]|
+2442|MMI|113.20|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-ti-1-"Intraocular pressure"-noun-0]|TI|631/20|
+2443|MMI|118.96|Ptosis of eyebrow|C0423122|[dsyn]|["Brow ptosis"-ti-1-"brow ptosis"-noun-0,"Ptosis brow"-ti-1-"ptosis brow"-noun-0]|TI|327/11;60/11|
+2443|MMI|116.40|Cutis Laxa|C0010495|[dsyn]|["Dermatochalasis"-ti-1-"Dermatochalasis"-noun-0,"Dermatochalasis"-ti-1-"dermatochalasis"-noun-0]|TI|33/15;307/15|
+2443|MMI|115.05|Local disease|C0277565|[dsyn]|["Local"-ti-1-"Local"-adj-0,"Local"-ti-1-"local"-adj-0]|TI|165/5;1421/5|
+2444|MMI|170.37|Excess skin|C1399774|[dsyn]|["Excess skin"-ti-1-"excess skin"-noun-0]|TI|1584/11|
+2444|MMI|117.31|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|1752/9|
+2445|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2596/9|
+'EOT'
+2447|MMI|122.32|Entropion|C0014390|[dsyn]|["ENTROPION"-ti-1-"Entropion"-noun-0,"ENTROPION"-ti-1-"entropion"-noun-0]|TI|[42/9],[69/9];904/9|
+2447|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2011/9|
+2447|MMI|117.31|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|["WAS"-ti-1-"was"-aux-0]|TI|1707/3|
+2447|MMI|112.80|Trichiasis|C0221259|[dsyn]|["TRICHIASIS"-ti-1-"trichiasis"-noun-0]|TI|889/10|
+2448|MMI|170.37|Blepharoptosis|C0005745|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-1]|TI|2824/6|
+2448|MMI|170.37|Ptosis|C0033377|[dsyn]|["PTOSIS"-ti-1-"ptosis"-noun-1]|TI|2824/6|
+2448|MMI|115.11|Ectropion|C0013592|[dsyn]|["ECTROPION"-ti-1-"ectropion"-noun-1]|TI|2834/9|
+2448|MMI|114.97|Disease|C0012634|[dsyn]|["Diagnosis"-ti-1-"DIAGNOSIS"-noun-0,"condition"-ti-1-"condition"-noun-0,"condition"-ti-1-"conditions"-verb-0]|TI|30/9;[3123/9],[3319/9];270/10|
+2448|MMI|112.66|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["TEN"-ti-1-"ten"-noun-0]|TI|1689/3|
+2449|MMI|121.00|Disease|C0012634|[dsyn]|["condition"-ti-1-"condition"-noun-0]|TI|2405/9|
+2449|MMI|121.00|SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME|C3542022|[dsyn]|["SOFT"-ti-1-"soft"-adj-0]|TI|2094/4|
+2449|MMI|115.11|Bacterial Vaginosis|C0085166|[dsyn]|["BV"-ti-1-"BV"-noun-0]|TI|1998/2|
