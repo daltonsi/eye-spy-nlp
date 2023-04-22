@@ -2,7 +2,7 @@
 # By- Shreya Kapoor
 ####################
 
-with open('fp_mappings.out', 'r') as file:
+with open('mm_disease_out.out', 'r') as file:
     for line in file:
         data = line.strip().split('|')
         try:

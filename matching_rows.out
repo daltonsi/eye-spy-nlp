@@ -19,3 +19,25 @@
 2433|MMI|119.41|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"cataract"-noun-0]|TI|25/8|
 2435|MMI|116.70|Cataract|C0086543|[anab]|["CATARACT"-ti-2-"cataract"-noun-0,"CATARACT"-ti-1-"cataract"-noun-0]|TI|120/8;42/8|
 2437|MMI|112.80|Cataract|C0086543|[anab]|["CATARACT"-ti-1-"Cataract"-noun-0]|TI|35/8|
+2368|MMI|114.06|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|65/18|
+2379|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|436/18|
+2379|MMI|112.57|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[228/8],[565/8]|
+2381|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|440/18|
+2381|MMI|112.57|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[232/8],[569/8]|
+2392|MMI|116.86|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-1]|TI|1048/18|
+2396|MMI|118.57|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|252/18|
+2406|MMI|113.20|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|897/18|
+2408|MMI|121.00|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|581/18|
+2413|MMI|112.80|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0]|TI|409/18|
+2415|MMI|118.14|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0,"GLAUCOMA"-ti-1-"glaucoma"-noun-1]|TI|[147/8],[976/8],[1447/8];[147/8],[976/8],[1447/8]|
+2416|MMI|112.40|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|170/8|
+2418|MMI|115.67|Diabetic Retinopathy|C0011884|[dsyn]|["DIABETIC RETINOPATHY"-ti-1-"diabetic retinopathy"-noun-0,"DIABETIC RETINOPATHY"-ti-1-"diabetic retinopathy"-noun-1]|TI|[152/20],[851/20];[152/20],[851/20]|
+2421|MMI|121.00|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-ti-1-"conjunctivitis"-noun-0]|TI|671/14|
+2426|MMI|114.06|Age related macular degeneration|C0242383|[dsyn]|["Age related macular degeneration"-ti-1-"Agerelated macular degeneration"-noun-0,"Age related macular degeneration"-ti-1-"agerelated macular degeneration"-noun-1]|TI|2843/31;1073/31|
+2426|MMI|112.44|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|3396/8|
+2429|MMI|170.37|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-ti-1-"glaucoma"-noun-0]|TI|[779/8],[1771/8],[2541/8]|
+2429|MMI|122.04|Age related macular degeneration|C0242383|[dsyn]|["Macular Degeneration"-ti-1-"macular degeneration"-noun-0]|TI|[184/20],[3089/20],[3447/20]|
+2429|MMI|115.11|Dry Eye Syndromes|C0013238|[dsyn]|["Dry Eye"-ti-1-"dry eye"-noun-0]|TI|1257/7|
+2432|MMI|123.14|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-ti-1-"CONJUNCTIVITIS"-noun-0,"Pink Eye"-ti-1-"Pink Eye"-noun-0,"Pink Eye"-ti-1-"eye Pink"-noun-1]|TI|17/14;[48/8],[359/8];934/3,951/4|
+2434|MMI|113.50|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-0,"RETINAL DETACHMENT"-ti-1-"retinal detachment"-noun-1]|TI|[1464/18],[1825/18];[1464/18],[1825/18]|
+2442|MMI|115.05|Age related macular degeneration|C0242383|[dsyn]|["Age related macular degeneration"-ti-1-"agerelated macular degeneration"-noun-0]|TI|[278/31],[991/31]|
